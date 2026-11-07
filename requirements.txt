@@ -3,4 +3,3 @@ transformers
 pandas
 plotly
 torch
-tf-keras
